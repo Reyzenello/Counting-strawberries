@@ -15,3 +15,7 @@ Which btw all these could be easibly solved by using Prompt Engineering or just 
 Prompt Engineering:
 
 ![image](https://github.com/Reyzenello/Counting-strawberries/assets/43668563/c4d1f70b-7ed8-4d00-809f-dee5b1b6b44e)
+
+or if you want to complex your life:
+
+![image](https://github.com/Reyzenello/Counting-strawberries/assets/43668563/32a8eb58-d0fc-4737-8b5b-a0d3d464fd03)
