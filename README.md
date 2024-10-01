@@ -24,3 +24,5 @@ or if you want to complex your life:
 One of the reason why the tokenizer by word is not really effective is because of the bottleneck which I would call it "Library of Babel - Borghes".
 
 I recommed to read that book, the result is it would be needed like yottabyte if we use the library of babel so yes is better the current tokenization instead of relying to word-per-word.
+
+The only repo which I saw that is working by using defined vocabulary but in that sense it would be kinda cheating is (https://github.com/google/sentencepiece/blob/master/README.md)
